@@ -14,10 +14,6 @@ void setup() {
   
   // set digital pin as output
   pinMode(ledPin, OUTPUT);
-
-  // start serial communications at 9600 baud
-  Serial.begin(9600);
-  
 }
 
 void loop() {
