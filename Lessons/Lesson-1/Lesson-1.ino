@@ -7,7 +7,7 @@
   
 **************************************/
 
-int ledPin = LED_BUILTIN; // same as pin 13
+int ledPin = 13; // same as LED_BUILTIN
 
 void setup() { 
   // put your setup code here, which runs once
