@@ -20,6 +20,5 @@ void loop() {
   // main program goes here
 
   digitalWrite(ledPin, HIGH);   // turn the ledPin on
-  Serial.println("On");
 
 }
