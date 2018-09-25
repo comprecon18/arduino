@@ -10,7 +10,7 @@
  
 **************************************/
 
-int ledPin = LED_BUILTIN; // same as pin 13
+int ledPin = 13; // same as pin 13
 
 int sensorPin = A0;     // analog pin because reading a range of numbers
 int sensorValue = 0;    // variable for reading the sensor
